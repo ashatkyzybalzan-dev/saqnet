@@ -1,0 +1,10 @@
+{
+  "name": "saqnet",
+  "version": "1.0.0",
+  "description": "SAQnet: anti-phishing website",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "optionalDependencies": { "nodemailer": "^6.9.0" },
+  "license": "UNLICENSED"
+}
